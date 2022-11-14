@@ -1,8 +1,7 @@
-- [About Me](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#aboutme-)
-- [Hobbies](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#hobbies)
-- [Life After Collage](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#life-after-collage)
-- [Block of Code](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#block-of-code-i-wrote-using-c)
-
+- [About Me](https://github.com/AmanuelH24/AboutMe-#about-me)
+- [Hobbies](https://github.com/AmanuelH24/AboutMe-#hobbies)
+- [Life After Collage](https://github.com/AmanuelH24/AboutMe-#life-after-collage)
+- [Block of Code](https://github.com/AmanuelH24/AboutMe-#block-of-code-i-wrote-using-c)
 
 ## About Me 
 My Name is Amanuel Hailemariam.I am from kansas city, Mssouri. 
@@ -38,6 +37,7 @@ I also always liked airplanes so I might get my private pilot license.
 Also once I figure out what I really like doing with *Information Technology* I might go back to school to expand on my degree. 
 
 ![](https://www.seriun.co.uk/wp-content/uploads/2022/03/Seriun-IT-The-real-cost-of-not-investing-in-Cyber-Security.jpg)
+
 
 
 
