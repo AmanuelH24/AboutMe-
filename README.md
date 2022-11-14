@@ -1,8 +1,10 @@
 - [About Me](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#aboutme-)
 - [Hobbies](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#hobbies)
 - [Life After Collage](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#life-after-collage)
-- [Block Of Code](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#block-of-code-i-wrote-using-c#)
+- [Block of Code](https://github.com/AmanuelH24/AboutMe-/edit/main/README.md#block-of-code-i-wrote-using-c)
 
+
+## About Me 
 My Name is Amanuel Hailemariam.I am from kansas city, Mssouri. 
 
 I am a student at [**University Of Missouri**](https://missouri.edu/) Columbia, 
