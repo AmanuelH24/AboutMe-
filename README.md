@@ -4,7 +4,7 @@
 - [Block of Code](https://github.com/AmanuelH24/AboutMe-#block-of-code-i-wrote-using-c)
 
 ## About Me 
-My Name is Amanuel Hailemariam.I am from kansas city, Mssouri. 
+My Name is Amanuel Hailemariam.I am from Kansas City, Missouri. 
 
 I am a student at [**University Of Missouri**](https://missouri.edu/) Columbia, 
 studying *Information Technology*.
@@ -16,12 +16,12 @@ studying *Information Technology*.
 ## Hobbies 
 When I have free time I really enjoy playing soccer and music. 
 
-Some of my favorite music instruments to play are
+Some of my favorite musical instruments to play are
 
 - Guitar. 
 - Piano/Keyboard. 
 - I also just picked up the bass guitar and I really enjoy it. 
-- Here is a link to a video I recorded for an assigment of me playing some guitar cordes [Guitar Video](https://vimeo.com/747376459)
+- Here is a link to a video I recorded for an assignment of me playing some guitar cordes [Guitar Video](https://vimeo.com/747376459)
 
 ![Image of Music Insterments](https://previews.123rf.com/images/osaba/osaba1606/osaba160600635/58043424-selective-focus-microphone-and-blur-musical-equipment-guitar-bass-drum-piano-background-.jpg)
 
@@ -30,7 +30,7 @@ Some of my favorite music instruments to play are
 
 ## Life After Collage 
 
-After I am done with collage I am planning on working in **Web Developmet, Cyber Security or some type of SoftWare Development**. 
+After I am done with college I am planning on working in **Web Development, Cyber Security, or some type of Software Development**. 
 
 I also always liked airplanes so I might get my private pilot license.
 
@@ -44,7 +44,7 @@ Also once I figure out what I really like doing with *Information Technology* I 
 
 ## Block of Code I wrote using C#
 
-This is one of the first project I wrote when I started learning C#
+This is one of the first projects I wrote when I started learning C#
 
 using System;
 using System.Collections.Generic;
